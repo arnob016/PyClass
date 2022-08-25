@@ -1,3 +1,5 @@
+#Task 3
+
 n=s=0
 while True:
     if n>600: break

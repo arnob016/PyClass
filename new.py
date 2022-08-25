@@ -1,3 +1,4 @@
+#misc test
 def multiplication_table(number):
 	# Initialize the starting point of the multiplication table
 	multiplier = 1
