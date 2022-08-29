@@ -1,3 +1,5 @@
+#Task 15
+
 i = int(input())
 
 for s in range(2,i):
