@@ -1,7 +1,4 @@
-#Task 17
+# Task 17
 
-i= int(input())
-for n in range(i):
-    for n in range(i):
-        print('+',end='')
-    print()
+i = int(input())
+print((('+'*i)+'\n')*(i-1), end='')
