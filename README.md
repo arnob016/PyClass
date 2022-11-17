@@ -1,2 +1,5 @@
 # PyClass
-Here lies the colabotarory link : https://colab.research.google.com/drive/1h8vUMAt43I5SMZ5rOPjmOp2J69PCGKyw?usp=sharing
+These are the problems, class works and basic assignments solved while studying OOP2 & AI at Daffodil International University,
+Course Teachers :
+OOP2 - Nusrat Jahan Ria
+AI - Aditi Dhali
