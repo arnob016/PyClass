@@ -1,0 +1,5 @@
+TupleGiven = ('a', 'b', 'c', 'd', 'e', 'f', 'g', 'h')
+TupleGiven = list(TupleGiven)
+TupleGiven.reverse()
+TupleGiven = tuple(TupleGiven)
+print(TupleGiven)
