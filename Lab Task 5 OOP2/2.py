@@ -1,0 +1,7 @@
+tuplea = input("")
+tuplea = tuplea.replace("(", "")
+tuplea = tuplea.replace(")", "")
+tuplea = tuplea.replace(" ", "")
+tuplea = tuplea.split(",")
+tupleb = tuple(tuplea)
+print(tupleb[2:-2])
